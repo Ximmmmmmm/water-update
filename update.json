@@ -1,6 +1,7 @@
 {
-  "versionCode": 5,
-  "versionName": "1.4",
-  "note": "自动更新链路最终验证",
-  "url": "https://cdn.jsdelivr.net/gh/Ximmmmmmm/water-update@main/apk/app-v1.4.apk"
+  "versionCode": 6,
+  "versionName": "1.5",
+  "note": "大版本更新：安装包体积从 4.6MB 缩减到 1.8MB，运行更快更稳定\n· 全面架构升级，提醒调度更可靠\n· 安全加固：新增安装包完整性校验\n· 修复跨天数据重置等若干问题",
+  "url": "https://cdn.jsdelivr.net/gh/Ximmmmmmm/water-update@main/apk/app-v1.5.apk",
+  "sha256": "716b8f98b2a22de320deb6faa1c961a90870390398347b3369f97036c914084f"
 }
