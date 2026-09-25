@@ -1,7 +1,7 @@
 {
-  "versionCode": 7,
-  "versionName": "1.6",
-  "note": "新增吃药记录功能：\n· 主页「吃药打卡」卡片，点一下即记录当前时间\n· 支持补记其他时间、删除误记记录\n· 月历查看历史，连续记录天数统计",
-  "url": "https://cdn.jsdelivr.net/gh/Ximmmmmmm/water-update@main/apk/app-v1.6.apk",
-  "sha256": "0648d1f6a6109f87531a2d74776d075dede687b3d7004e671ff45f63818ab4d4"
+  "versionCode": 8,
+  "versionName": "1.7",
+  "note": "通知体验大修：\n· 久未记录喝水不再连环轰炸，改为自动降频\n· 刚记录喝水后自动顺延下次提醒\n· 深夜点「稍后再提醒」不再打扰，顺延到安静时段结束\n· 通知按钮精简为 3 个，「稍后再提醒」恢复可见\n· 修复 App 自更新后提醒闹钟丢失的问题",
+  "url": "https://cdn.jsdelivr.net/gh/Ximmmmmmm/water-update@main/apk/app-v1.7.apk",
+  "sha256": "753029e1fc2cbd81e2571678181d917a3aa68f447578d5da46a1e90058830a4f"
 }
