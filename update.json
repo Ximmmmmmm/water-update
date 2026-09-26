@@ -1,7 +1,7 @@
 {
-  "versionCode": 8,
-  "versionName": "1.7",
-  "note": "通知体验大修：\n· 久未记录喝水不再连环轰炸，改为自动降频\n· 刚记录喝水后自动顺延下次提醒\n· 深夜点「稍后再提醒」不再打扰，顺延到安静时段结束\n· 通知按钮精简为 3 个，「稍后再提醒」恢复可见\n· 修复 App 自更新后提醒闹钟丢失的问题",
-  "url": "https://cdn.jsdelivr.net/gh/Ximmmmmmm/water-update@main/apk/app-v1.7.apk",
-  "sha256": "753029e1fc2cbd81e2571678181d917a3aa68f447578d5da46a1e90058830a4f"
+  "versionCode": 9,
+  "versionName": "1.8",
+  "note": "跨天与稳定性修复：\n· 跨天后小组件/磁贴/提醒/每日总结不再显示昨天的量\n· AI 健康提醒失败后当天仍可重试\n· 小组件与提醒在午夜后自动归零\n· 语音解析等 AI 调用统一收敛，行为不变",
+  "url": "https://cdn.jsdelivr.net/gh/Ximmmmmmm/water-update@main/apk/app-v1.8.apk",
+  "sha256": "d0d26caa6502c9577a306ebc43df54d101652ad976569a8f1b495c5354ef3b23"
 }
